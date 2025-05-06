@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Adityasinh-Sodha" target="_blank">
+  <a href="https://github.com/WorkofAditya" target="_blank">
     <img src="assets/github3.png" alt="GitHub" width="40" />
   </a>
-  <a href="https://gitlab.com/Adityasinh-Sodha" target="_blank">
+  <a href="https://gitlab.com/WorkofAditya" target="_blank">
     <img src="assets/gitlab.png" alt="GitLab" width="40" />
   </a>
-  <a href="https://codepen.io/Adityasinh-Sodha" target="_blank">
+  <a href="https://codepen.io/WorkofAditya" target="_blank">
     <img src="assets/codepen.png" alt="CodePen" width="40" />
   </a>
 </p>
@@ -22,9 +22,9 @@
   
 | Projects  | Description  |
 | ------------- |:-------------:|
-| [DDOS-Simulator](https://github.com/Adityasinh-Sodha/DDOS-Simulator)      | Script designed to perform DDOS attacks. |
-| [PhisherMan](https://github.com/Adityasinh-Sodha/PhisherMan)       |   Script for performing phishing attacks. |
-| [MaxEdit](https://adityasinh-sodha.github.io/MaxEdit/)       |   Live Markdown Editor That support HTML too. |
+| [DDOS-Simulator](https://github.com/WorkofAditya/DDOS-Simulator)      | Script designed to perform DDOS attacks. |
+| [PhisherMan](https://github.com/WorkofAditya/PhisherMan)       |   Script for performing phishing attacks. |
+| [MaxEdit](https://WorkofAditya.github.io/MaxEdit/)       |   Live Markdown Editor That support HTML too. |
 | [AirLink](https://airlink.up.railway.app/)      |  AirLink is a user-friendly web-based file-sharing platform.|
 
 
