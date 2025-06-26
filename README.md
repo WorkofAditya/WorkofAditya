@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/WorkofAditya" target="_blank">
-    <img src="assets/github3.png" alt="GitHub" width="40" />
+  <a href="https://www.instagram.com/Adityasinhji_Sodha/" target="_blank">
+    <img src="assets/insta2.png" alt="Insta" width="40" />
   </a>
   <a href="https://gitlab.com/WorkofAditya" target="_blank">
     <img src="assets/gitlab.png" alt="GitLab" width="40" />
