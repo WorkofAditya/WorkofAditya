@@ -23,7 +23,7 @@
 | Projects  | Description  |
 | ------------- |:-------------:|
 | [DDOS-Simulator](https://github.com/WorkofAditya/DDOS-Simulator)      | Script designed to perform DDOS attacks. |
-| [PhisherMan](https://github.com/WorkofAditya/PhisherMan)       |   Script for performing phishing attacks. |
+| [PhisherMan]([https://github.com/WorkofAditya/PhisherMan](https://workofaditya.github.io/PhisherMan/))       |   Script for performing phishing attacks. |
 | [MaxEdit](https://WorkofAditya.github.io/MaxEdit/)       |   Live Markdown Editor That support HTML too. |
 | [AirLink](https://airlink.up.railway.app/)      |  AirLink is a user-friendly web-based file-sharing platform.|
 
